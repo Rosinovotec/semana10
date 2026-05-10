@@ -1,1 +1,2 @@
  fix(login): concurrency: corrige incompatibilidade do botão de login no Safari
+ feat(profile): adiciona tela de histórico de pedidos
